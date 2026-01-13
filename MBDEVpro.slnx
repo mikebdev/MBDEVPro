@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="MBDEVpro.BLL/MBDEVpro.BLL.csproj" />
+  <Project Path="MBDEVpro.Common/MBDEVpro.Common.csproj" />
+  <Project Path="MBDEVpro.DataModel/MBDEVpro.DataModel.csproj" />
+  <Project Path="MBDEVpro.Repository/MBDEVpro.Repository.csproj" />
+  <Project Path="MBDEVpro.Transmittals/MBDEVpro.Transmittals.csproj" />
+  <Project Path="MBDEVpro.UI/MBDEVpro.UI.csproj" />
+</Solution>
