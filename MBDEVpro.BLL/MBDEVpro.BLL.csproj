@@ -16,10 +16,4 @@
     <ProjectReference Include="..\MBDEVpro.Transmittals\MBDEVpro.Transmittals.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Interfaces\" />
-    <Folder Include="Administration\" />
-    <Folder Include="Customer\" />
-  </ItemGroup>
-
 </Project>
