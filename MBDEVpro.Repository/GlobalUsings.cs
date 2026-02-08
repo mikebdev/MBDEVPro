@@ -1,4 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
+﻿global using System;
+global using System.Collections.Generic;
+global using System.ComponentModel.DataAnnotations;
+global using System.Data;
+global using System.Linq;
+global using System.Transactions;
+global using Microsoft.Data.SqlClient;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.Extensions.Caching.Memory;
+global using MBDEVpro.Common;
+//global using MBDEVpro.DataModel.Entities;
+//global using MBDEVpro.DataModel.NonEntities;
+global using MBDEVpro.DataModel;
+//global using MBDEVpro.Repository.Interfaces;
+//global using MBDEVpro.Repository.Repositories;
+//global using MBDEVpro.Transmittals.ViewModels.Customer;
+//global using MBDEVpro.Transmittals.ViewModels.Shared;

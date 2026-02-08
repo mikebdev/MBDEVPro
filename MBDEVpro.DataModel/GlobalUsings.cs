@@ -1,5 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-
+﻿global using System;
+global using System.Collections.Generic;
+global using System.ComponentModel.DataAnnotations;
+global using System.ComponentModel.DataAnnotations.Schema;
+global using System.Diagnostics.CodeAnalysis;
+global using System.Linq;
+global using Microsoft.AspNetCore.Http;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore.Infrastructure;
+global using Microsoft.EntityFrameworkCore.Metadata;
+global using Microsoft.EntityFrameworkCore.Migrations;
+global using Microsoft.Extensions.Configuration;
+global using System.Text;
+global using System.Threading.Tasks;
+global using Microsoft.EntityFrameworkCore.ChangeTracking;
+global using MBDEVpro.DataModel;
+global using MBDEVpro.Common;
