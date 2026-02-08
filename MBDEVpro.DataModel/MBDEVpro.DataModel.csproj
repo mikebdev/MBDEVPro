@@ -22,9 +22,4 @@
     <ProjectReference Include="..\MBDEVpro.Common\MBDEVpro.Common.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Entities\" />
-    <Folder Include="NonEntities\" />
-  </ItemGroup>
-
 </Project>
