@@ -15,4 +15,13 @@
     <ProjectReference Include="..\MBDEVpro.DataModel\MBDEVpro.DataModel.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="ViewModels\Customer\" />
+    <Folder Include="ViewModels\Administration\" />
+    <Folder Include="ViewModels\Business\" />
+    <Folder Include="ViewModels\Supervisor\" />
+    <Folder Include="ViewModels\User\" />
+    <Folder Include="ViewModels\Shared\" />
+  </ItemGroup>
+
 </Project>
